@@ -41,25 +41,13 @@
 
 ## 🏆 Key Projects  
 
-### **1. ShahadaGPT**  
-> **Cutting-edge AI for Islamic knowledge and guidance.**  
-Empowering global communities with accessible AI-driven insights on faith and knowledge.  
-
-### **2. BrandMind**  
-> **Effortless AI Marketing Platform**  
-Automated social media management and content creation for brands, using state-of-the-art AI tools.  
+### **1. AvaHealth**  
+> **Telemedicine Platform**  
+Instant connection with licensed doctors, offering 24/7 access to medical consultations and services  
 
 ### **3. MyFinance**  
 > **Daily Expense Management Platform**  
 Responsive and cross-platform web/PWA for logging expenses and managing finances effortlessly.  
-
-### **4. MedicalAI**  
-> **Telemedicine Platform**  
-Instant connection with licensed doctors, offering 24/7 access to medical consultations and services.  
-
-### **5. Xanthica**  
-> **AI-Powered Contract Analysis**  
-Simplifying contract review and analysis with AI for enhanced productivity and accuracy.  
 
 ---
 
