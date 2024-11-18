@@ -62,12 +62,6 @@ Responsive and cross-platform web/PWA for logging expenses and managing finances
 ## 📈 GitHub Stats  
 ![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranausama48&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranausama48&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranausama48&theme=radical)  
-
----
-
-## 🔥 Contribution Graph  
-[![Usama's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ranausama48&theme=rogue)](https://github.com/ranausama48)  
 
 ---
 
