@@ -1,6 +1,6 @@
 # Hi there, I'm Usama Asif! 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1B98F2&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+Tech+Mentor;5%2B+Years+Experience;Specializing+in+React%2C+Node.js%2C+Next.js)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1B98F2&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer+%7C+Tech+Mentor;5%2B+Years+Experience;Expert+in+React%2C+Node.js%2C+Next.js)](https://git.io/typing-svg)  
 
 ---
 
@@ -42,12 +42,26 @@
 ## 🏆 Key Projects  
 
 ### **1. AvaHealth**  
-> **Telemedicine Platform**  
+> **Comprehensive Healthcare Management Web & Mobile App**  
+Instant connection with licensed doctors, offering 24/7 access to medical consultations and services
+
+### **2. MyFinance**  
+> **Daily Expense Management Platform**  
+Responsive and cross-platform web/PWA for logging expenses and managing finances effortlessly.
+
+### **3. Oncolo**  
+> **Comprehensive Healthcare Management Web & Mobile App**  
 Instant connection with licensed doctors, offering 24/7 access to medical consultations and services  
 
-### **3. MyFinance**  
-> **Daily Expense Management Platform**  
-Responsive and cross-platform web/PWA for logging expenses and managing finances effortlessly.  
+
+### **4. CarStreet**  
+> **Vehicle Sell & Purchase**  
+Responsive and cross-platform web/Mobile app for selling and purchasing vehicles effortlessly.
+
+### **5. FreelancePortal Mobile**  
+> **FreelancePortal**  
+ This innovative project enables users to manage timesheets on any mobile device for multiple companies. Users can submit timesheets via email and attach doctor's certificates, reimbursements, and invoices by uploading from their mobile devices or taking photos.
+
 
 ---
 
